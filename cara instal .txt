@@ -1,0 +1,4 @@
+1. buat database bernama login di phpmyadmin
+2. install file sql ke database login
+3. buat folder log, untuk buat daftar log pada saat login maupun register
+4. untuk login dengan email belajarlogin@gmail.com dan password admin123
